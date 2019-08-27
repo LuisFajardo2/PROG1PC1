@@ -1,0 +1,3 @@
+Multiplexación de HTTP2:
+
+Se refiere a que HTTP/2 puede enviar multiples requerimientos de datos sobre una sola conexión TCP. Es la característica más avanzada de HTTP/2 porque nos permite descargar asincronamente archivos web de un servidor. Esto reduce el Round Trip Time adicional, de esa forma las paginas web cargan más rápido.
