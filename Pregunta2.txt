@@ -1,0 +1,9 @@
+Los tres objetivos fueron: 
+
+Velocidad: Que el sistema Git fuese veloz, de respuesta rapida.
+Diseño Sencillo: Para que su uso sea sencillo.
+Que tenga gran soporte para desarrollo no lineal: Esto se consiguio a través de su sistema de ramas(branches) paralelas
+Capaz de manejar grandes proyectos eficientemente: Proyectos grandes como el del Kernel de Linux
+
+
+Git fue creado por: Linus Torvalds
